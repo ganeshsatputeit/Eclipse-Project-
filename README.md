@@ -1,2 +1,2 @@
 # Eclipse-Project-
-Developed a diploma Final Year Project.This Project converts UseCase diagram into Java code and Vise Versa by using Eclipse. 
+This project is diploma Final Year Project. which is java code converted into uml diagram. 
